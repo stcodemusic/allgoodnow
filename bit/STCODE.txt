@@ -1,0 +1,1726 @@
+#EXTM3U
+#EXTINF:-1,==== Caucasus ====
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6504.ts
+#EXTINF:-1,===== UK =====
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1203.ts
+#EXTINF:-1,UK: BBC 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/274.ts
+#EXTINF:-1,UK: BBC 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/273.ts
+#EXTINF:-1,UK: BBC 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/272.ts
+#EXTINF:-1,UK: BBC 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/271.ts
+#EXTINF:-1,UK: CBeebies
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6146.ts
+#EXTINF:-1,UK: CBBC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6147.ts
+#EXTINF:-1,UK: BBC News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/915.ts
+#EXTINF:-1,UK: Itv 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/268.ts
+#EXTINF:-1,UK: Itv 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/267.ts
+#EXTINF:-1,UK: Itv 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/252.ts
+#EXTINF:-1,UK: Itv 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/251.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/927.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/928.ts
+#EXTINF:-1,UK: Sky Sport 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/259.ts
+#EXTINF:-1,UK: Sky Sport 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/258.ts
+#EXTINF:-1,UK: Sky Sport 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/257.ts
+#EXTINF:-1,UK: Sky Sport 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/256.ts
+#EXTINF:-1,UK: Sky Sport 5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/255.ts
+#EXTINF:-1,UK: Sky Sport 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6680.ts
+#EXTINF:-1,UK: Sky Sport 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6681.ts
+#EXTINF:-1,UK: Sky Sport 3 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6682.ts
+#EXTINF:-1,UK: Sky Sport 4 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6683.ts
+#EXTINF:-1,UK: Sky Sport 5 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6684.ts
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6685.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1624.ts
+#EXTINF:-1,UK: BT Sports 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1641.ts
+#EXTINF:-1,UK: BT Sports 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2512.ts
+#EXTINF:-1,UK: BT Sports 3 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2513.ts
+#EXTINF:-1,UK: Prime Sport HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3045.ts
+#EXTINF:-1,UK: Sky Sport F1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/253.ts
+#EXTINF:-1,UK: Sky Sport News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/416.ts
+#EXTINF:-1,UK: BT Sport 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/374.ts
+#EXTINF:-1,UK: BT Sport 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/375.ts
+#EXTINF:-1,UK: BT Sport 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1282.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/587.ts
+#EXTINF:-1,UK: BT Sport Extra
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1247.ts
+#EXTINF:-1,UK: BT Sport Mosaic
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7609.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7610.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7611.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7612.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7613.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7614.ts
+#EXTINF:-1,UK: Sky Sports MIX
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7608.ts
+#EXTINF:-1,UK: EuroSport 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1634.ts
+#EXTINF:-1,UK: EuroSport 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1633.ts
+#EXTINF:-1,UK: Eir Sport
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/376.ts
+#EXTINF:-1,UK: Racing UK
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1236.ts
+#EXTINF:-1,UK: Premier Sports
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2867.ts
+#EXTINF:-1,UK: Chelsea TV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/937.ts
+#EXTINF:-1,UK: Box Nation
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1104.ts
+#EXTINF:-1,UK: At The Races
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1642.ts
+#EXTINF:-1,UK: MUTV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7631.ts
+#EXTINF:-1,UK: MUTV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1238.ts
+#EXTINF:-1,UK: LFC TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1239.ts
+#EXTINF:-1,UK: CBS Action
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/924.ts
+#EXTINF:-1,UK: CBS Drama
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/926.ts
+#EXTINF:-1,UK: CBS Reality
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/925.ts
+#EXTINF:-1,UK: 5 Usa
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/922.ts
+#EXTINF:-1,UK: 5 Star
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7616.ts
+#EXTINF:-1,UK: E4 HD P720
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7632.ts
+#EXTINF:-1,UK: E4 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1270.ts
+#EXTINF:-1,UK: SKY 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7629.ts
+#EXTINF:-1,UK: Sky One
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/417.ts
+#EXTINF:-1,UK: Sky Two
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/415.ts
+#EXTINF:-1,UK: Rte One
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/418.ts
+#EXTINF:-1,UK: Rte two
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/584.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12275.ts
+#EXTINF:-1,UK: Sky News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/930.ts
+#EXTINF:-1,UK: Sky Living
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/585.ts
+#EXTINF:-1,UK: Sky Arts
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/414.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/266.ts
+#EXTINF:-1,UK: Sky Movies Drama
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/265.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/263.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/264.ts
+#EXTINF:-1,UK: Sky Movies Thriller
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/270.ts
+#EXTINF:-1,UK: Sky Movies Showcase
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/269.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/260.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/254.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/261.ts
+#EXTINF:-1,UK: Sky Movies Modern-Geant
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/262.ts
+#EXTINF:-1,UK: Film 4 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/917.ts
+#EXTINF:-1,UK: mov4men1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1263.ts
+#EXTINF:-1,UK: ITV Encore
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1266.ts
+#EXTINF:-1,UK: True Movies 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1251.ts
+#EXTINF:-1,UK: True Movies 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1250.ts
+#EXTINF:-1,UK: Horror Channel
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/935.ts
+#EXTINF:-1,UK: Sony Entertainment (SET)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2839.ts
+#EXTINF:-1,UK: Watch
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1252.ts
+#EXTINF:-1,UK: Heart
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12309.ts
+#EXTINF:-1,UK: MTV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7622.ts
+#EXTINF:-1,UK: MTV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7620.ts
+#EXTINF:-1,UK: MTV Hits
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7621.ts
+#EXTINF:-1,UK: MTV Base
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12305.ts
+#EXTINF:-1,UK: MTV Dance
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12308.ts
+#EXTINF:-1,UK: MTV Music
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12306.ts
+#EXTINF:-1,UK: MTV Rocks
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12307.ts
+#EXTINF:-1,UK: MTV Class
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7619.ts
+#EXTINF:-1,UK: More 4 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7630.ts
+#EXTINF:-1,UK: Universal Channel
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12276.ts
+#EXTINF:-1,UK: Horse and Country
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7617.ts
+#EXTINF:-1,UK: Film4 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7627.ts
+#EXTINF:-1,UK: EDEN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7628.ts
+#EXTINF:-1,UK: BET
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7618.ts
+#EXTINF:-1,UK: Vintage TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12304.ts
+#EXTINF:-1,UK: Dave HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/934.ts
+#EXTINF:-1,UK: Yesterday HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/936.ts
+#EXTINF:-1,UK: Quest
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/921.ts
+#EXTINF:-1,UK: 3E
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/920.ts
+#EXTINF:-1,UK: Home
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/931.ts
+#EXTINF:-1,UK: Drama
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1272.ts
+#EXTINF:-1,UK: More 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1295.ts
+#EXTINF:-1,UK: Food
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/923.ts
+#EXTINF:-1,UK: Gold
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/932.ts
+#EXTINF:-1,UK: Food Network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4389.ts
+#EXTINF:-1,UK: Alibi
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/933.ts
+#EXTINF:-1,UK: TLC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2074.ts
+#EXTINF:-1,UK: Really
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1631.ts
+#EXTINF:-1,UK: Fox
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1632.ts
+#EXTINF:-1,UK: Comedy Central
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2219.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1639.ts
+#EXTINF:-1,UK: DISNEY CHANNEL
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1298.ts
+#EXTINF:-1,UK: Nickelodeon
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1291.ts
+#EXTINF:-1,UK: NICK TOONS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1261.ts
+#EXTINF:-1,UK: NICK JUNIOR
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1292.ts
+#EXTINF:-1,UK: Boomerang
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1285.ts
+#EXTINF:-1,UK: cartoon network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2231.ts
+#EXTINF:-1,UK: baby tv
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2232.ts
+#EXTINF:-1,UK: E!
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1635.ts
+#EXTINF:-1,UK: Animal Planet
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1643.ts
+#EXTINF:-1,UK: Fine Living Network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1268.ts
+#EXTINF:-1,UK: CNBC News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12365.ts
+#EXTINF:-1,UK: TG4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1255.ts
+#EXTINF:-1,UK: Discovery
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1638.ts
+#EXTINF:-1,UK: Discovery Science
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1299.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1637.ts
+#EXTINF:-1,UK: Discovery History
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1245.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1296.ts
+#EXTINF:-1,UK: Nat Geo
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1293.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1302.ts
+#EXTINF:-1,UK: History
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2236.ts
+#EXTINF:-1,UK: H2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2237.ts
+#EXTINF:-1,UK: UTV Ireland
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2221.ts
+#EXTINF:-1,UK: TV3 IR
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2225.ts
+#EXTINF:-1,UK: spike
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2226.ts
+#EXTINF:-1,UK: RTEjr
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2227.ts
+#EXTINF:-1,UK: Real Lives
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2222.ts
+#EXTINF:-1,UK: PICK
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2223.ts
+#EXTINF:-1,UK: 4Music
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12518.ts
+#EXTINF:-1,UK: 4seven
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12517.ts
+#EXTINF:-1,UK: Australia Plus
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12516.ts
+#EXTINF:-1,UK: Bike
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12515.ts
+#EXTINF:-1,UK: Blaze
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12514.ts
+#EXTINF:-1,UK: Bloomberg
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12513.ts
+#EXTINF:-1,UK: Challenge
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12512.ts
+#EXTINF:-1,UK: CITV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12511.ts
+#EXTINF:-1,UK: Community
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12510.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12509.ts
+#EXTINF:-1,UK: Discovery Shed
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12508.ts
+#EXTINF:-1,UK: Disney XD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12507.ts
+#EXTINF:-1,UK: FLAVA
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12506.ts
+#EXTINF:-1,UK: Forces TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12505.ts
+#EXTINF:-1,UK: France 24
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12504.ts
+#EXTINF:-1,UK: Home Health
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12503.ts
+#EXTINF:-1,UK: Irish Tv
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12502.ts
+#EXTINF:-1,UK: ITV  Box Office PPV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12475.ts
+#EXTINF:-1,UK: Kix
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12501.ts
+#EXTINF:-1,UK: London Live
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12500.ts
+#EXTINF:-1,UK: Motors
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12499.ts
+#EXTINF:-1,UK: Movies 24
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12498.ts
+#EXTINF:-1,UK: My 5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12497.ts
+#EXTINF:-1,UK: Nick Jnr Too
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12496.ts
+#EXTINF:-1,UK: Pick TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12495.ts
+#EXTINF:-1,UK: POP
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12494.ts
+#EXTINF:-1,UK: RTE 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12493.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12492.ts
+#EXTINF:-1,UK: S4C
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12491.ts
+#EXTINF:-1,UK: Scuzz
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12490.ts
+#EXTINF:-1,UK: Sony Channel
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12489.ts
+#EXTINF:-1,UK: Starz TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12488.ts
+#EXTINF:-1,UK: STV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12487.ts
+#EXTINF:-1,UK: The Vault
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12486.ts
+#EXTINF:-1,UK: Tiny Pop
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12485.ts
+#EXTINF:-1,UK: Travel Channel
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12484.ts
+#EXTINF:-1,UK: True Crime
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12483.ts
+#EXTINF:-1,UK: True Ent
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12482.ts
+#EXTINF:-1,UK: True TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12481.ts
+#EXTINF:-1,UK: TV5 Monde
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12480.ts
+#EXTINF:-1,UK: UFC fight night prelims
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12520.ts
+#EXTINF:-1,UK: UFC Fight PASS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12479.ts
+#EXTINF:-1,UK: Viceland
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12478.ts
+#EXTINF:-1,UK: VIVA
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12477.ts
+#EXTINF:-1,UK: W  1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12476.ts
+#EXTINF:-1,UK: ITVBE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2224.ts
+#EXTINF:-1,UK: Fox News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2234.ts
+#EXTINF:-1,UK: DMAX
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2220.ts
+#EXTINF:-1,UK: Life OK
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2842.ts
+#EXTINF:-1,UK: Colors Europe
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2846.ts
+#EXTINF:-1,UK: Colors
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2845.ts
+#EXTINF:-1,UK: CareWorld
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2856.ts
+#EXTINF:-1,UK: B4U PLUS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2851.ts
+#EXTINF:-1,UK: B4U Music
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2853.ts
+#EXTINF:-1,UK: B4U Movies
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2850.ts
+#EXTINF:-1,UK: And TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2841.ts
+#EXTINF:-1,UK: ABP News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2859.ts
+#EXTINF:-1,UK: Aaj Tak
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2858.ts
+#EXTINF:-1,UK: Zing
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2854.ts
+#EXTINF:-1,UK: Zee TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2837.ts
+#EXTINF:-1,UK: Zee Punjabi
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2855.ts
+#EXTINF:-1,UK: Zee Cinema
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2847.ts
+#EXTINF:-1,UK: Star Plus
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2838.ts
+#EXTINF:-1,UK: Star Jalsha
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2857.ts
+#EXTINF:-1,UK: Star Gold
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2848.ts
+#EXTINF:-1,UK: SET Max
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2849.ts
+#EXTINF:-1,UK: Sab TV (SET)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2840.ts
+#EXTINF:-1,UK: Rishtey Europe
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2844.ts
+#EXTINF:-1,UK: Rishtey
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2843.ts
+#EXTINF:-1,UK: BBC Newcastle radio
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7306.ts
+#EXTINF:-1,UK: BBC Radio 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5885.ts
+#EXTINF:-1,UK: BBC Radio 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5886.ts
+#EXTINF:-1,UK: BBC Radio 5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5887.ts
+#EXTINF:-1,UK: Capital FM Tyne and Wear
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7311.ts
+#EXTINF:-1,UK: Gaydio FM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7313.ts
+#EXTINF:-1,UK: Heart FM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7307.ts
+#EXTINF:-1,UK: Smooth radio FM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7315.ts
+#EXTINF:-1,UK Absolute 60's FM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7316.ts
+#EXTINF:-1,UK: Absolute 70's FM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7317.ts
+#EXTINF:-1,UK: Absolute 80's FM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7318.ts
+#EXTINF:-1,UK: Absolute 90's FM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7319.ts
+#EXTINF:-1,UK: Absolute 00's FM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7320.ts
+#EXTINF:-1,===== USA =====
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1202.ts
+#EXTINF:-1,CAN: TSN Sport 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3046.ts
+#EXTINF:-1,CAN: TSN Sport 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3047.ts
+#EXTINF:-1,CAN: TSN Sport 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3048.ts
+#EXTINF:-1,CAN: TSN Sport 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3049.ts
+#EXTINF:-1,CAN: TSN Sport 5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3050.ts
+#EXTINF:-1,CAN: History HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2906.ts
+#EXTINF:-1,US: Sportsnet World HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4279.ts
+#EXTINF:-1,US: FOX Sport 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2860.ts
+#EXTINF:-1,US: FOX Sport 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2861.ts
+#EXTINF:-1,US: NBA TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5387.ts
+#EXTINF:-1,US: TBS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3587.ts
+#EXTINF:-1,US: SYFY HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5238.ts
+#EXTINF:-1,US: SPIKE HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5237.ts
+#EXTINF:-1,US: NICKELODEN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5236.ts
+#EXTINF:-1,US: Cartoon Network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7932.ts
+#EXTINF:-1,US: YES Network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5225.ts
+#EXTINF:-1,US: STARZ EDGE HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5397.ts
+#EXTINF:-1,US: Starz Comedy
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5396.ts
+#EXTINF:-1,US: Showtime Showcase
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5402.ts
+#EXTINF:-1,US: Showtime Next
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5399.ts
+#EXTINF:-1,US: Showtime Extreme
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5398.ts
+#EXTINF:-1,US: ShowTime 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5401.ts
+#EXTINF:-1,US: ShowTime HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5390.ts
+#EXTINF:-1,US: FreeRom HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5234.ts
+#EXTINF:-1,US: CBS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7800.ts
+#EXTINF:-1,US: National Geographic HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5404.ts
+#EXTINF:-1,US: Investigation Discovery
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5410.ts
+#EXTINF:-1,US: HISTORY
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5405.ts
+#EXTINF:-1,US: HBO Family
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5400.ts
+#EXTINF:-1,US: Food Network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5403.ts
+#EXTINF:-1,US: TENNIS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5407.ts
+#EXTINF:-1,US: Discovery Science HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5409.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5408.ts
+#EXTINF:-1,US: Cinemax Moremax
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5395.ts
+#EXTINF:-1,US: Cinemax East
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5393.ts
+#EXTINF:-1,US: Cinemax ActionMax East
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5394.ts
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5392.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5391.ts
+#EXTINF:-1,US: Animal Planet HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5406.ts
+#EXTINF:-1,US:  HBO Zone HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5389.ts
+#EXTINF:-1,US:  HBO East HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5388.ts
+#EXTINF:-1,US: FX HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5231.ts
+#EXTINF:-1,US: FOX 59 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5232.ts
+#EXTINF:-1,US: FOX Business HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5233.ts
+#EXTINF:-1,US: ESPN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5227.ts
+#EXTINF:-1,US: CW HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5230.ts
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5242.ts
+#EXTINF:-1,US: OWN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5244.ts
+#EXTINF:-1,US: Al Jazeera News English
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8097.ts
+#EXTINF:-1,US: CBS News HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8098.ts
+#EXTINF:-1,US: BRAVO HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5228.ts
+#EXTINF:-1,US: AMC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5229.ts
+#EXTINF:-1,US: ABC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5239.ts
+#EXTINF:-1,US: A&E TV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5240.ts
+#EXTINF:-1,US: LIFE TIME HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3588.ts
+#EXTINF:-1,US: HIFI
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3589.ts
+#EXTINF:-1,US: Fox 5 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3590.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3591.ts
+#EXTINF:-1,US: MSNBC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8000.ts
+#EXTINF:-1,US: HBO HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3592.ts
+#EXTINF:-1,US: HALLMARK
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3593.ts
+#EXTINF:-1,US: H2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3594.ts
+#EXTINF:-1,US: A&E HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3585.ts
+#EXTINF:-1,US: Bravo
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2654.ts
+#EXTINF:-1,US: CNN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/876.ts
+#EXTINF:-1,US: NFL Network HD 1080P
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2863.ts
+#EXTINF:-1,US: NBC SPORT
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2864.ts
+#EXTINF:-1,US: USA Network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/871.ts
+#EXTINF:-1,US: HBO Family HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/878.ts
+#EXTINF:-1,US: Starz Cinema HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/874.ts
+#EXTINF:-1,US: HBO Plus
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/875.ts
+#EXTINF:-1,US: ABC News HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/873.ts
+#EXTINF:-1,US: ESPN
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/872.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5386.ts
+#EXTINF:-1,US: WWE HD
+#EXTINF:-1,===== Indian & Pakistan =====
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1190.ts
+#EXTINF:-1,IN: STAR SPORTS 1HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/179.ts
+#EXTINF:-1,IN: STAR SPORTS 2HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/178.ts
+#EXTINF:-1,IN: STAR SPORTS 3HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/177.ts
+#EXTINF:-1,IN: STAR SPORTS 4HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/176.ts
+#EXTINF:-1,IN: TEN 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/175.ts
+#EXTINF:-1,IN: TEN SPORTS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/171.ts
+#EXTINF:-1,IN: TEN ACTION
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/173.ts
+#EXTINF:-1,IN: TEN CRICKET
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/172.ts
+#EXTINF:-1,IN: TEN Golf HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/174.ts
+#EXTINF:-1,IN: Zee TV-HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/181.ts
+#EXTINF:-1,IN: ZEE ETC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/180.ts
+#EXTINF:-1,IN: Zee Cinema
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/189.ts
+#EXTINF:-1,IN: Zee Cafe
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/182.ts
+#EXTINF:-1,IN: Zee News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/183.ts
+#EXTINF:-1,IN: Zee Apak
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/184.ts
+#EXTINF:-1,IN: Sony ESPN
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/185.ts
+#EXTINF:-1,IN: Zee Anmol
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/186.ts
+#EXTINF:-1,IN: Zee Action
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/187.ts
+#EXTINF:-1,IN: Zee Classic
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/188.ts
+#EXTINF:-1,IN: Zee Living
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/190.ts
+#EXTINF:-1,IN: SUN TV-HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/161.ts
+#EXTINF:-1,IN: STAR PLUS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/191.ts
+#EXTINF:-1,IN: Star Jalsha
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/192.ts
+#EXTINF:-1,IN: Sony Six
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3404.ts
+#EXTINF:-1,IN: GEMINI TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3421.ts
+#EXTINF:-1,IN: GEMINI Movies
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3422.ts
+#EXTINF:-1,IN: STAR GOLD HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/193.ts
+#EXTINF:-1,IN: SONY TV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/194.ts
+#EXTINF:-1,IN: SONY SAB ASIA
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/195.ts
+#EXTINF:-1,IN: SONY MIX
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/196.ts
+#EXTINF:-1,IN: SONY MAX2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/197.ts
+#EXTINF:-1,IN: KTV-HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/162.ts
+#EXTINF:-1,IN: JAYA TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/164.ts
+#EXTINF:-1,IN: JAYA TV-US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/165.ts
+#EXTINF:-1,IN: JAYA MOVIES
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/163.ts
+#EXTINF:-1,IN: COLORS TV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/198.ts
+#EXTINF:-1,IN: B4U MOVIES
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/201.ts
+#EXTINF:-1,IN: B4U MUSIC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/200.ts
+#EXTINF:-1,IN: B4U PLUS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/199.ts
+#EXTINF:-1,IN: ASIANET
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/166.ts
+#EXTINF:-1,IN: ASIANET PLUS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/167.ts
+#EXTINF:-1,IN: ASIANET MOVIES
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/168.ts
+#EXTINF:-1,PK: PTV SPORTS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5221.ts
+#EXTINF:-1,PK: DTV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3429.ts
+#EXTINF:-1,PK: Maa TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3435.ts
+#EXTINF:-1,PK: Waseb TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3430.ts
+#EXTINF:-1,PK: Urdu 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3441.ts
+#EXTINF:-1,PK: GEO Tezz
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3442.ts
+#EXTINF:-1,PK: TV COLORS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3431.ts
+#EXTINF:-1,PK: WE TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3434.ts
+#EXTINF:-1,PK: Nvibe TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3436.ts
+#EXTINF:-1,PK: RAAVI Films
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3443.ts
+#EXTINF:-1,PK: PTV NEWS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3444.ts
+#EXTINF:-1,PK: PTV HOME
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3445.ts
+#EXTINF:-1,PK: PLAY MAX
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3447.ts
+#EXTINF:-1,PK: Paigam Pushto
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3433.ts
+#EXTINF:-1,PK: MUSIC NOW
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3432.ts
+#EXTINF:-1,PK: 8xm
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3437.ts
+#EXTINF:-1,PK: Kohenoor TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3427.ts
+#EXTINF:-1,PK: K 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3428.ts
+#EXTINF:-1,PK: KAWISH TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3426.ts
+#EXTINF:-1,PK: Dhakna TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3425.ts
+#EXTINF:-1,PK: Hum TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3448.ts
+#EXTINF:-1,PK: Geo Kahani
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3449.ts
+#EXTINF:-1,PK: EXPRESS Entertainement
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3446.ts
+#EXTINF:-1,PK: DIN NEWS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3424.ts
+#EXTINF:-1,PK: CITY42
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3423.ts
+#EXTINF:-1,PK: CHANNEL 24
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3438.ts
+#EXTINF:-1,PK: CAPITAL NEWS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3450.ts
+#EXTINF:-1,PK: ARY ZIINDAGI
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3451.ts
+#EXTINF:-1,PK: ARY ZAUQ
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3452.ts
+#EXTINF:-1,PK: ARY ZAIQA
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3453.ts
+#EXTINF:-1,PK: ARY NEWS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3454.ts
+#EXTINF:-1,PK: ARY DIGITAL PAK
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3455.ts
+#EXTINF:-1,PK: APNA CHANNEL
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3439.ts
+#EXTINF:-1,PK: APLUS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3456.ts
+#EXTINF:-1,PK: APKA CHANNEL
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3440.ts
+#EXTINF:-1,PK: ABBTAK News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3457.ts
+#EXTINF:-1,PK: AAJ NEWS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3458.ts
+#EXTINF:-1,PK: 92 NEWS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3459.ts
+#EXTINF:-1,PK: 24 CHANNEL
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3460.ts
+#EXTINF:-1,PK: Bol News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9127.ts
+#EXTINF:-1,PK: HUM Musala TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3461.ts
+#EXTINF:-1,PK: Dunya News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7999.ts
+#EXTINF:-1,PK: Peace TV Urdu
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9761.ts
+#EXTINF:-1,PK: Geo News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7997.ts
+#EXTINF:-1,PK: Geo Tizz
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7996.ts
+#EXTINF:-1,PK: Geo TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7995.ts
+#EXTINF:-1,PK: DAWN NEWS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8037.ts
+#EXTINF:-1,PK: Samma News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7998.ts
+#EXTINF:-1,===== VIP USA & CAN ======
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7711.ts
+#EXTINF:-1,VIP US: AFN SPORTS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5188.ts
+#EXTINF:-1,VIP US: AFN SPORTS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5190.ts
+#EXTINF:-1,VIP US: AFN SPORTS 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5189.ts
+#EXTINF:-1,VIP US:  AFN MOVIE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5192.ts
+#EXTINF:-1,VIP US: AFN NEWS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5191.ts
+#EXTINF:-1,VIP US: AFN PRIME ATLANTIC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5187.ts
+#EXTINF:-1,VIP US: AFN PULSE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5193.ts
+#EXTINF:-1,VIP US: AFN SPECTRUM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5185.ts
+#EXTINF:-1,VIP US: AFN PRIME PACIFIC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5186.ts
+#EXTINF:-1,VIP US: CBS Sport Network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8398.ts
+#EXTINF:-1,VIP US: NBCSN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7685.ts
+#EXTINF:-1,VIP US: NBC EXTRA TIME HD1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7694.ts
+#EXTINF:-1,VIP US: NBC EXTRA TIME HD2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7693.ts
+#EXTINF:-1,VIP US: NBC EXTRA TIME HD3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7691.ts
+#EXTINF:-1,VIP US: NBC EXTRA TIME HD4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7689.ts
+#EXTINF:-1,VIP US: NBC EXTRA TIME HD5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7687.ts
+#EXTINF:-1,VIP US: NBC EXTRA TIME HD6
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7686.ts
+#EXTINF:-1,VIP US: NBC EXTRA TIME HD7
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7688.ts
+#EXTINF:-1,VIP US: EPL EXTRA TIME 1 1080P
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7698.ts
+#EXTINF:-1,VIP US: EPL EXTRA TIME 2 1080P
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7699.ts
+#EXTINF:-1,VIP US: EPL EXTRA TIME 3 1080P
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7700.ts
+#EXTINF:-1,VIP US: EPL EXTRA TIME 4 1080P
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7701.ts
+#EXTINF:-1,VIP US: EPL EXTRA TIME 5 1080P
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7702.ts
+#EXTINF:-1,VIP US: NBC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9917.ts
+#EXTINF:-1,VIP US: Offical Olympic Channel HD US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9867.ts
+#EXTINF:-1,VIP US: Pac12 Area HD US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9860.ts
+#EXTINF:-1,VIP US: Pac12 Arizona HD US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9861.ts
+#EXTINF:-1,VIP US: Pac12 Los Angeles HD US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9862.ts
+#EXTINF:-1,VIP US: Pac12 Mountain HD US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9863.ts
+#EXTINF:-1,VIP US: Pac12 Network HD US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9866.ts
+#EXTINF:-1,VIP US: Pac12 Oregon HD US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9864.ts
+#EXTINF:-1,VIP US: 24/7 SOUTHPARK HD SERIES
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10673.ts
+#EXTINF:-1,VIP US: A&E HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10699.ts
+#EXTINF:-1,VIP US: ABC Action News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10652.ts
+#EXTINF:-1,VIP US: ABC FAMILY/SPARK
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10654.ts
+#EXTINF:-1,VIP US: ABC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10651.ts
+#EXTINF:-1,VIP US: ABC News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10653.ts
+#EXTINF:-1,VIP US: AL JAZEERA U.S HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10698.ts
+#EXTINF:-1,VIP US: AMC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10754.ts
+#EXTINF:-1,VIP US: Americas Auction TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10645.ts
+#EXTINF:-1,VIP US: ANIMAL PLANET
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10768.ts
+#EXTINF:-1,VIP US: BBC WORLD NEWS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10697.ts
+#EXTINF:-1,VIP US: BEIN SPORTS U.S.A
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10696.ts
+#EXTINF:-1,VIP US: Big Ten Network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10681.ts
+#EXTINF:-1,VIP US: BLOOMBERG TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10747.ts
+#EXTINF:-1,VIP US: Bravo HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10701.ts
+#EXTINF:-1,VIP US: C-SPAN 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10712.ts
+#EXTINF:-1,VIP US: C-SPAN 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10711.ts
+#EXTINF:-1,VIP US: C-SPAN 3 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10710.ts
+#EXTINF:-1,VIP US: CAPITAL TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10714.ts
+#EXTINF:-1,VIP US: CARTOON NETWORK
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10694.ts
+#EXTINF:-1,VIP US: CBS HD-US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10767.ts
+#EXTINF:-1,VIP US: CBS News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10755.ts
+#EXTINF:-1,VIP US: CBSN News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10717.ts
+#EXTINF:-1,VIP US: Cinemax 5 Max
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10677.ts
+#EXTINF:-1,VIP US: Cinemax 5 Star Max
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10700.ts
+#EXTINF:-1,VIP US: Cinemax ActionMax
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10720.ts
+#EXTINF:-1,VIP US: Cinemax East
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10721.ts
+#EXTINF:-1,VIP US: Cinemax Moremax
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10693.ts
+#EXTINF:-1,VIP US: CITY HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10722.ts
+#EXTINF:-1,VIP US: CNBC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10676.ts
+#EXTINF:-1,VIP US: CNN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10749.ts
+#EXTINF:-1,VIP US: COMEDY CENTRAL
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10692.ts
+#EXTINF:-1,VIP US: Crime & Investigation
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10691.ts
+#EXTINF:-1,VIP US: CW 11 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10752.ts
+#EXTINF:-1,VIP US: CW Channel 11
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10718.ts
+#EXTINF:-1,VIP US: DEPORTES HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10671.ts
+#EXTINF:-1,VIP US: DISCOVERY CHANNEL HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10761.ts
+#EXTINF:-1,VIP US: DISCOVERY SHOWCASE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10770.ts
+#EXTINF:-1,VIP US: DISCOVERY VELOCITY
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10690.ts
+#EXTINF:-1,VIP US: DISNEY JR HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10735.ts
+#EXTINF:-1,VIP US: E! Network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10689.ts
+#EXTINF:-1,VIP US: ESPN
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10774.ts
+#EXTINF:-1,VIP US: ESPN 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10773.ts
+#EXTINF:-1,VIP US: ESPN 3 TRE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10772.ts
+#EXTINF:-1,VIP US: ESPN NEWS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10771.ts
+#EXTINF:-1,VIP US: Fight Network / MMA Network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10738.ts
+#EXTINF:-1,VIP US: Fight Sport 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10726.ts
+#EXTINF:-1,VIP US: Fight Sport 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10723.ts
+#EXTINF:-1,VIP US: FOOD NETWORK
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10688.ts
+#EXTINF:-1,VIP US: FOX
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10748.ts
+#EXTINF:-1,VIP US: FOX MOTOSPORT
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10650.ts
+#EXTINF:-1,VIP US: Fox News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10727.ts
+#EXTINF:-1,VIP US: FOX SOCCER SUN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10670.ts
+#EXTINF:-1,VIP US: FOX SPORTS ONE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10769.ts
+#EXTINF:-1,VIP US: FOX SPORTS TWO HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10716.ts
+#EXTINF:-1,VIP US: FX HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10728.ts
+#EXTINF:-1,VIP US: GSN TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10675.ts
+#EXTINF:-1,VIP US: HALLMARK HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10730.ts
+#EXTINF:-1,VIP US: HBO 2 COMEDY
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10731.ts
+#EXTINF:-1,VIP US: HBO Family HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10674.ts
+#EXTINF:-1,VIP US: HBO HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10732.ts
+#EXTINF:-1,VIP US: HBO SIGNATURE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10733.ts
+#EXTINF:-1,VIP US: HBO ZONE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10734.ts
+#EXTINF:-1,VIP US: HEART TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10713.ts
+#EXTINF:-1,VIP US: HGTV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10668.ts
+#EXTINF:-1,VIP US: HISTORY HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10762.ts
+#EXTINF:-1,VIP US: HSN YT LIVE 1080p HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10648.ts
+#EXTINF:-1,VIP US: KIDS READING TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10646.ts
+#EXTINF:-1,VIP US: LIFE TIME
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10736.ts
+#EXTINF:-1,VIP US: LIFETIME HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10715.ts
+#EXTINF:-1,VIP US: LMN HDTV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10666.ts
+#EXTINF:-1,VIP US: MLB HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10737.ts
+#EXTINF:-1,VIP US: MOVIETIME
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10719.ts
+#EXTINF:-1,VIP US: MSNBC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10669.ts
+#EXTINF:-1,VIP US: MTV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10757.ts
+#EXTINF:-1,VIP US: MTV LIVE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10758.ts
+#EXTINF:-1,VIP US: MTV LIVE HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10760.ts
+#EXTINF:-1,VIP US: MY9 TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10665.ts
+#EXTINF:-1,VIP US: NASA TV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10649.ts
+#EXTINF:-1,VIP US: NAT GEO HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10759.ts
+#EXTINF:-1,VIP US: NBA TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10729.ts
+#EXTINF:-1,VIP US: NBC GOLF
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10687.ts
+#EXTINF:-1,VIP US: News 12 Bronx (NYC)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10708.ts
+#EXTINF:-1,VIP US: News 12 Brooklyn (NYC)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10707.ts
+#EXTINF:-1,VIP US: News 12 Connecticut (LIVE)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10706.ts
+#EXTINF:-1,VIP US: News 12 Long Island(Stream 1)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10705.ts
+#EXTINF:-1,VIP US: News 12 New Jersey (LIVE)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10704.ts
+#EXTINF:-1,VIP US: News 12 New Jersey (Weather Live)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10703.ts
+#EXTINF:-1,VIP US: NEWSMAX YT LIVE HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10647.ts
+#EXTINF:-1,VIP US: NFL Network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10776.ts
+#EXTINF:-1,VIP US: NFL Network HDTV 1080i
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10664.ts
+#EXTINF:-1,VIP US: NFL Now
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10777.ts
+#EXTINF:-1,VIP US: NFL RedZone (Live on GameDay)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10775.ts
+#EXTINF:-1,VIP US: NHL NETWORK
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10686.ts
+#EXTINF:-1,VIP US: NHLTV NETWORK HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10667.ts
+#EXTINF:-1,VIP US: NICK HD (kids)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10663.ts
+#EXTINF:-1,VIP US: NICKELODEON KIDS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10695.ts
+#EXTINF:-1,VIP US: NICKTOONS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10662.ts
+#EXTINF:-1,VIP US: Nursery Rhymes (Baby Songs)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10679.ts
+#EXTINF:-1,VIP US: OWN HD (Oprah Winfrey TV)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10661.ts
+#EXTINF:-1,VIP US: P.B.S Kids
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10680.ts
+#EXTINF:-1,VIP US: RT DOCUMENTARY
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10685.ts
+#EXTINF:-1,VIP US: Showtime 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10740.ts
+#EXTINF:-1,VIP US: Showtime Extreme HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10660.ts
+#EXTINF:-1,VIP US: Showtime HDTV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10739.ts
+#EXTINF:-1,VIP US: Showtime Showcase
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10659.ts
+#EXTINF:-1,VIP US: SPIKE TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10756.ts
+#EXTINF:-1,VIP US: Starz Cinema
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10741.ts
+#EXTINF:-1,VIP US: Starz Comedy
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10742.ts
+#EXTINF:-1,VIP US: Starz East
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10743.ts
+#EXTINF:-1,VIP US: Starz Edge HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10744.ts
+#EXTINF:-1,VIP US: Starz Encore East
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10725.ts
+#EXTINF:-1,VIP US: Starz Encore HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10724.ts
+#EXTINF:-1,VIP US: Starz West
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10746.ts
+#EXTINF:-1,VIP US: SYFY HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10684.ts
+#EXTINF:-1,VIP US: T.N.T
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10751.ts
+#EXTINF:-1,VIP US: TBS
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10750.ts
+#EXTINF:-1,VIP US: TBS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10763.ts
+#EXTINF:-1,VIP US: TENNIS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10658.ts
+#EXTINF:-1,VIP US: The Weather Channel
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10709.ts
+#EXTINF:-1,VIP US: TLC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10764.ts
+#EXTINF:-1,VIP US: Toon Kids
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10678.ts
+#EXTINF:-1,VIP US: TRAVEL CHANNEL
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10765.ts
+#EXTINF:-1,VIP US: TRU TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10657.ts
+#EXTINF:-1,VIP US: TRUE MOVIES
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10683.ts
+#EXTINF:-1,VIP US: TV SERIES
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10682.ts
+#EXTINF:-1,VIP US: TV SKY ONE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10656.ts
+#EXTINF:-1,VIP US: University of California TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10702.ts
+#EXTINF:-1,VIP US: USA Network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10753.ts
+#EXTINF:-1,VIP US: VH1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10655.ts
+#EXTINF:-1,VIP US: WWE Network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10766.ts
+#EXTINF:-1,VIP US: Pac12 Washington HD US
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9865.ts
+#EXTINF:-1,VIP US: VH1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10154.ts
+#EXTINF:-1,VIP US: VH1 Classic
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10155.ts
+#EXTINF:-1,VIP US: LIVE NBA 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10945.ts
+#EXTINF:-1,VIP US: LIVE NBA 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10944.ts
+#EXTINF:-1,VIP US: LIVE NBA 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10943.ts
+#EXTINF:-1,VIP US: LIVE NBA 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10942.ts
+#EXTINF:-1,VIP US: LIVE NBA 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10941.ts
+#EXTINF:-1,VIP US: LIVE NBA 5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10940.ts
+#EXTINF:-1,VIP US: LIVE NBA 6
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10939.ts
+#EXTINF:-1,VIP US: LIVE NBA 7
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10938.ts
+#EXTINF:-1,VIP US: LIVE NBA 8
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10937.ts
+#EXTINF:-1,VIP US: LIVE NBA 9
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10936.ts
+#EXTINF:-1,VIP US: LIVE NBA 10
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10935.ts
+#EXTINF:-1,VIP US: LIVE NHL 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10934.ts
+#EXTINF:-1,VIP US: LIVE NHL 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10933.ts
+#EXTINF:-1,VIP US: LIVE NHL 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10932.ts
+#EXTINF:-1,VIP US: LIVE NHL 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10931.ts
+#EXTINF:-1,VIP US: LIVE NHL 5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10930.ts
+#EXTINF:-1,VIP US: LIVE NHL 6
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10929.ts
+#EXTINF:-1,VIP US: LIVE NHL 7
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10928.ts
+#EXTINF:-1,VIP US: LIVE NHL 8
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10927.ts
+#EXTINF:-1,VIP US: LIVE NHL 9
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10926.ts
+#EXTINF:-1,VIP CAN: SPORTSNET WORLD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7709.ts
+#EXTINF:-1,VIP CAN: SPORTSNET ONE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7705.ts
+#EXTINF:-1,VIP CAN: SPORTSNET 360
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7703.ts
+#EXTINF:-1,VIP CAN: SPORTSNET WEST
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7708.ts
+#EXTINF:-1,VIP CAN: SPORTSNET EAST
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7704.ts
+#EXTINF:-1,VIP CAN: SPORTSNET PACIFIC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7707.ts
+#EXTINF:-1,VIP CAN: SPORTSNET ONTARIO
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7706.ts
+#EXTINF:-1,VIP CAN: ABC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7972.ts
+#EXTINF:-1,VIP CAN: ABC Spark
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7971.ts
+#EXTINF:-1,VIP CAN: BET
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7970.ts
+#EXTINF:-1,VIP CAN: BNN
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7969.ts
+#EXTINF:-1,VIP CAN: CBC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7968.ts
+#EXTINF:-1,VIP CAN: City Vancouver
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7967.ts
+#EXTINF:-1,VIP CAN: CMT
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7965.ts
+#EXTINF:-1,VIP CAN: Comedy Gold
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7966.ts
+#EXTINF:-1,VIP CAN: CTV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7964.ts
+#EXTINF:-1,VIP CAN: Deja Vu
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7963.ts
+#EXTINF:-1,VIP CAN: E!
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7962.ts
+#EXTINF:-1,VIP CAN: FYI
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7961.ts
+#EXTINF:-1,VIP CAN: Golf Channel
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7960.ts
+#EXTINF:-1,VIP CAN: ICI ARTV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7959.ts
+#EXTINF:-1,VIP CAN: ICI RDI
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7958.ts
+#EXTINF:-1,VIP CAN: LCN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7957.ts
+#EXTINF:-1,VIP CAN: Movie Time
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7956.ts
+#EXTINF:-1,VIP CAN: MTV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7955.ts
+#EXTINF:-1,VIP CAN: RDS 2HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7954.ts
+#EXTINF:-1,VIP CAN: Series HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7953.ts
+#EXTINF:-1,VIP CAN: Silver Screen Classics
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7952.ts
+#EXTINF:-1,VIP CAN: Slice
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7951.ts
+#EXTINF:-1,VIP CAN: Spike
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7950.ts
+#EXTINF:-1,VIP CAN: TMN
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7949.ts
+#EXTINF:-1,VIP CAN: Tree House
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7948.ts
+#EXTINF:-1,VIP CAN: Vrak
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7947.ts
+#EXTINF:-1,VIP CAN: W Network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7946.ts
+#EXTINF:-1,VIP CAN: World Fishing
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7945.ts
+#EXTINF:-1,VIP CAN: Y TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7944.ts
+#EXTINF:-1,VIP CAN: cartoon network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10024.ts
+#EXTINF:-1,VIP CAN: chch
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10025.ts
+#EXTINF:-1,VIP CAN: cottage life
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10026.ts
+#EXTINF:-1,VIP CAN: cp24
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10027.ts
+#EXTINF:-1,VIP CAN: evasion
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10028.ts
+#EXTINF:-1,VIP CAN: fox news
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10029.ts
+#EXTINF:-1,VIP CAN: fxx hd
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10030.ts
+#EXTINF:-1,VIP CAN: g4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10031.ts
+#EXTINF:-1,VIP CAN: global tv calgary
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10032.ts
+#EXTINF:-1,VIP CAN: global tv edmonton
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10033.ts
+#EXTINF:-1,VIP CAN: gsn
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10034.ts
+#EXTINF:-1,VIP CAN: much music
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10035.ts
+#EXTINF:-1,VIP CAN: musique
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10036.ts
+#EXTINF:-1,VIP CAN: nick
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10037.ts
+#EXTINF:-1,VIP CAN: oln
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10038.ts
+#EXTINF:-1,VIP CAN: omni 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10039.ts
+#EXTINF:-1,VIP CAN: omni 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10040.ts
+#EXTINF:-1,VIP CAN: own (oprah winfrew network)
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10041.ts
+#EXTINF:-1,VIP CAN: peachtree tv
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10042.ts
+#EXTINF:-1,VIP CAN: shopping channel
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10043.ts
+#EXTINF:-1,VIP CAN: Super Ecran 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10023.ts
+#EXTINF:-1,VIP CAN: Super Ecran 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10022.ts
+#EXTINF:-1,VIP CAN: Super Ecran 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10021.ts
+#EXTINF:-1,VIP CAN: Super Ecran 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10020.ts
+#EXTINF:-1,VIP CAN: super ecran hd
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10044.ts
+#EXTINF:-1,VIP CAN: teletoon
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10045.ts
+#EXTINF:-1,VIP CAN: travel channel
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/10046.ts
+#EXTINF:-1,===== VIP INDIA =====
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8150.ts
+#EXTINF:-1,VIP IN: Sony ESPN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8122.ts
+#EXTINF:-1,VIP IN: SONY HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8106.ts
+#EXTINF:-1,VIP IN: SONY MAX HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8107.ts
+#EXTINF:-1,VIP IN: Sony six HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8108.ts
+#EXTINF:-1,VIP IN: STAR GOLD HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8109.ts
+#EXTINF:-1,VIP IN: Star movies
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8110.ts
+#EXTINF:-1,VIP IN: STAR MOVIES HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8111.ts
+#EXTINF:-1,VIP IN: Star Movies select HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8112.ts
+#EXTINF:-1,VIP IN: STAR PLUS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8113.ts
+#EXTINF:-1,VIP IN: Star sports HD1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8114.ts
+#EXTINF:-1,VIP IN: Star sports HD2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8115.ts
+#EXTINF:-1,VIP IN: Star sports HD3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8116.ts
+#EXTINF:-1,VIP IN: Star sports HD4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8117.ts
+#EXTINF:-1,VIP IN: STAR SPORTS SELECT HD1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12048.ts
+#EXTINF:-1,VIP IN: STAR SPORTS SELECT HD2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12049.ts
+#EXTINF:-1,VIP IN: Willow HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/9958.ts
+#EXTINF:-1,VIP IN: Star World HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8129.ts
+#EXTINF:-1,VIP IN: Tamil: Sun tv HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8119.ts
+#EXTINF:-1,VIP IN: Tamil:JAYA TV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8136.ts
+#EXTINF:-1,VIP IN: Tamil:Sun tv HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8137.ts
+#EXTINF:-1,VIP IN: TEN 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8138.ts
+#EXTINF:-1,VIP IN: TentKotta HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8139.ts
+#EXTINF:-1,VIP IN: VIP HBO
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8103.ts
+#EXTINF:-1,VIP IN: ZEE BOLLYWOOD HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8133.ts
+#EXTINF:-1,VIP IN: Zee Cinema HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8120.ts
+#EXTINF:-1,VIP IN: & PICTURE HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8130.ts
+#EXTINF:-1,VIP IN: &tv HD india
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8131.ts
+#EXTINF:-1,VIP IN: AAPKA COLORS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8101.ts
+#EXTINF:-1,VIP IN: Cartoon network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8121.ts
+#EXTINF:-1,VIP IN: COLORS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8104.ts
+#EXTINF:-1,VIP IN: D2H CINEMA HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8102.ts
+#EXTINF:-1,VIP IN: Hindi:NEWS X HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8132.ts
+#EXTINF:-1,VIP IN: Ktv HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8134.ts
+#EXTINF:-1,VIP IN: LIFE OK HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8105.ts
+#EXTINF:-1,VIP IN: M TUNES HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8135.ts
+#EXTINF:-1,VIP IN: MTV Indies HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8128.ts
+#EXTINF:-1,VIP IN: Nat Geo Music HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8123.ts
+#EXTINF:-1,VIP IN: Nat Geo People HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8124.ts
+#EXTINF:-1,VIP IN: Nat Geo Wild HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8125.ts
+#EXTINF:-1,VIP IN: National Geographic HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8126.ts
+#EXTINF:-1,VIP IN: NICK HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8127.ts
+#EXTINF:-1,===== ART =====
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/1204.ts
+#EXTINF:-1,VIP AR: MBC1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4074.ts
+#EXTINF:-1,VIP AR: MBC2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4073.ts
+#EXTINF:-1,VIP AR: MBC3 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4072.ts
+#EXTINF:-1,VIP AR: MBC4 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4071.ts
+#EXTINF:-1,VIP AR: MBC Action HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4078.ts
+#EXTINF:-1,VIP AR: MBC MAX HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4075.ts
+#EXTINF:-1,VIP AR: MBC Drama HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4076.ts
+#EXTINF:-1,VIP AR: MBC Plus Drama HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7542.ts
+#EXTINF:-1,VIP AR: MBC Variety HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4655.ts
+#EXTINF:-1,VIP AR: MBC Bollywood
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4077.ts
+#EXTINF:-1,VIP AR: MBC Pro Sports 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2750.ts
+#EXTINF:-1,VIP AR: MBC Pro Sports 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2751.ts
+#EXTINF:-1,VIP AR: MBC Pro Sports 3 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/2752.ts
+#EXTINF:-1,VIP AR: Almajd
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6070.ts
+#EXTINF:-1,VIP AR: Almajd Quran
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6067.ts
+#EXTINF:-1,VIP AR: Almajd Hadith
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6068.ts
+#EXTINF:-1,VIP AR: Almajd Educational
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6069.ts
+#EXTINF:-1,VIP AR: ART Aflam 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/141.ts
+#EXTINF:-1,VIP AR; ART Aflam 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/140.ts
+#EXTINF:-1,VIP AR: ART Cinema
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/139.ts
+#EXTINF:-1,VIP AR: ART Hekayat 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/138.ts
+#EXTINF:-1,VIP AR: ART Hekayat 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/137.ts
+#EXTINF:-1,VIP AR: Rotana Music HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5420.ts
+#EXTINF:-1,VIP AR: Rotana Masriah HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5421.ts
+#EXTINF:-1,VIP AR: Rotana Khalijiah HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5422.ts
+#EXTINF:-1,VIP AR: Rotana Classic HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5423.ts
+#EXTINF:-1,VIP AR: Rotana Cinema HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5424.ts
+#EXTINF:-1,VIP AR: Rotana Aflam HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5425.ts
+#EXTINF:-1,VIP AR: LBC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7645.ts
+#EXTINF:-1,VIP AR: SeeVii Al Aoula HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7670.ts
+#EXTINF:-1,VIP AR: SeeVii Drama HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7668.ts
+#EXTINF:-1,VIP AR: SeeVii Beelink HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7669.ts
+#EXTINF:-1,VIP AR: SeeVii Shamiya HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7667.ts
+#EXTINF:-1,VIP AR: OSN Al Youm
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4363.ts
+#EXTINF:-1,VIP AR: OSN Cinema 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/158.ts
+#EXTINF:-1,VIP AR: OSN Cinema 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/157.ts
+#EXTINF:-1,VIP AR: OSN Al Safwa
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6848.ts
+#EXTINF:-1,VIP AR: OSN Musalsalat HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7022.ts
+#EXTINF:-1,VIP AR: OSN Fann
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6847.ts
+#EXTINF:-1,VIP AR: OSN Music Now
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7419.ts
+#EXTINF:-1,VIP AR: OSN Disney HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6846.ts
+#EXTINF:-1,VIP AR: OSN Disney Junior
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7302.ts
+#EXTINF:-1,VIP AR: OSN Disney XD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7646.ts
+#EXTINF:-1,VIP AR: OSN Boomerang HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7863.ts
+#EXTINF:-1,VIP AR: OSN Nickelodeon HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7332.ts
+#EXTINF:-1,VIP AR: OSN Nickelodeon Junior
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7644.ts
+#EXTINF:-1,VIP AR: OSN Jim Jam
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7647.ts
+#EXTINF:-1,VIP AR: OSN Fix & Foxi
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7874.ts
+#EXTINF:-1,VIP AR: OSN Nautical HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8196.ts
+#EXTINF:-1,VIP AR: OSN Fine Living
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7638.ts
+#EXTINF:-1,VIP AR: OSN Food Network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6140.ts
+#EXTINF:-1,VIP AR: OSN E! Entertainement
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5686.ts
+#EXTINF:-1,VIP AR: OSN OUTDOOR HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7643.ts
+#EXTINF:-1,VIP AR: OSN TLC HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7486.ts
+#EXTINF:-1,VIP AR: OSN Fight Box
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7640.ts
+#EXTINF:-1,VIP AR: OSN VH 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7639.ts
+#EXTINF:-1,VIP AR: OSN Fashion Box
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7872.ts
+#EXTINF:-1,VIP AR: OSN Docu Box
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7641.ts
+#EXTINF:-1,VIP AR: OSN Discovery HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12545.ts
+#EXTINF:-1,VIP AR: OSN Discovery Science HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4301.ts
+#EXTINF:-1,VIP AR: OSN Discovery Family HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6873.ts
+#EXTINF:-1,VIP AR: OSN Discovery ID HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12550.ts
+#EXTINF:-1,VIP AR: OSN Crime & Investigation Network
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7650.ts
+#EXTINF:-1,VIP AR: OSN Animal Planet HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4300.ts
+#EXTINF:-1,VIP AR: OSN National Geo HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5681.ts
+#EXTINF:-1,VIP AR: OSN Fuel HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7871.ts
+#EXTINF:-1,VIP AR: OSN FX HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7499.ts
+#EXTINF:-1,VIP AR: OSN Fox Action HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7020.ts
+#EXTINF:-1,VIP AR: OSN Fox Family HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6843.ts
+#EXTINF:-1,VIP AR: OSN Sundance TV HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7413.ts
+#EXTINF:-1,VIP AR: OSN ITV Choice HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7501.ts
+#EXTINF:-1,VIP AR: OSN BBC First HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7462.ts
+#EXTINF:-1,VIP AR: OSN CNN HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8039.ts
+#EXTINF:-1,VIP AR: OSN Comedy Central HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5413.ts
+#EXTINF:-1,VIP AR: OSN Syfy HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6857.ts
+#EXTINF:-1,VIP AR: OSN History HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7300.ts
+#EXTINF:-1,VIP AR: OSN History 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4303.ts
+#EXTINF:-1,VIP AR: OSN NEWS HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7500.ts
+#EXTINF:-1,VIP AR: OSN Fox News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7793.ts
+#EXTINF:-1,VIP AR: OSN MTV LIVE HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7680.ts
+#EXTINF:-1,VIP AR: OSN Trace Urban
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7679.ts
+#EXTINF:-1,VIP AR: OSN GINX ESPORTS TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8197.ts
+#EXTINF:-1,VIP AR: OSN WWE HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4272.ts
+#EXTINF:-1,VIP AR: OSN OSN Fight Network HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7502.ts
+#EXTINF:-1,VIP AR: OSN Ad Sport 3 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7418.ts
+#EXTINF:-1,VIP AR: OSN AD Sports 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6844.ts
+#EXTINF:-1,VIP AR: OSN Ad Sport 4 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7417.ts
+#EXTINF:-1,VIP AR: OSN AD Sports 4
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6841.ts
+#EXTINF:-1,VIP AR: OSN Ad Sport 5 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7416.ts
+#EXTINF:-1,VIP AR: OSN AD Sports 5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6840.ts
+#EXTINF:-1,VIP AR: OSN Ad Sport 6 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7415.ts
+#EXTINF:-1,VIP AR: OSN AD Sports 6
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6839.ts
+#EXTINF:-1,VIP AR: OSN Sports Action 1 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6850.ts
+#EXTINF:-1,VIP AR: OSN Sports Action 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6842.ts
+#EXTINF:-1,VIP AR: OSN Sports 3 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6851.ts
+#EXTINF:-1,VIP AR: OSN Sports 4 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6845.ts
+#EXTINF:-1,VIP AR: OSN Sports Cricket HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7412.ts
+#EXTINF:-1,VIP AR: OSN Ten Cricket
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7649.ts
+#EXTINF:-1,VIP AR: OSN National Geo People HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12547.ts
+#EXTINF:-1,VIP AR: OSN National Geo Wild HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12548.ts
+#EXTINF:-1,VIP AR: OSN Yahala HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12541.ts
+#EXTINF:-1,VIP AR: OSN Yahala First HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12540.ts
+#EXTINF:-1,VIP AR: OSN Yahala First 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7411.ts
+#EXTINF:-1,VIP AR: OSN Yahala Cinema HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12549.ts
+#EXTINF:-1,VIP AR: OSN Movies First HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3294.ts
+#EXTINF:-1,VIP AR: OSN Movies First 2 HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5687.ts
+#EXTINF:-1,VIP AR: OSN Movies HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12543.ts
+#EXTINF:-1,VIP AR: OSN Movies 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6852.ts
+#EXTINF:-1,VIP AR: OSN Movies Action HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12544.ts
+#EXTINF:-1,VIP AR: OSN Movies Action+2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5381.ts
+#EXTINF:-1,VIP AR: OSN Movies Thriller HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12542.ts
+#EXTINF:-1,VIP AR: OSN Movies Thriller 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7675.ts
+#EXTINF:-1,VIP AR: OSN Movies Family HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/6849.ts
+#EXTINF:-1,VIP AR: OSN Movies Festival HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3687.ts
+#EXTINF:-1,VIP AR: OSN Movies Comedy HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3695.ts
+#EXTINF:-1,VIP AR: OSN Movies Kids HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5467.ts
+#EXTINF:-1,VIP AR: OSN First HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5468.ts
+#EXTINF:-1,VIP AR: OSN First HBO HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12546.ts
+#EXTINF:-1,VIP AR: OSN Series HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7795.ts
+#EXTINF:-1,VIP AR: OSN Series Comedy HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/4364.ts
+#EXTINF:-1,VIP AR: OSN Series Comedy 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7794.ts
+#EXTINF:-1,VIP AR: OSN Star Movies HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7460.ts
+#EXTINF:-1,VIP AR: OSN Star World HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/3688.ts
+#EXTINF:-1,VIP AR: OSN Starz HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7299.ts
+#EXTINF:-1,VIP AR: OSN Starz Family HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7297.ts
+#EXTINF:-1,VIP AR: OSN Starz Edge HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7296.ts
+#EXTINF:-1,VIP AR: OSN Starz Comedy HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7298.ts
+#EXTINF:-1,VIP AR: OSN ON Demand HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7677.ts
+#EXTINF:-1,VIP AR: OSN Box Office 1
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5382.ts
+#EXTINF:-1,VIP AR: OSN Box Office 2
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5383.ts
+#EXTINF:-1,VIP AR: OSN Box Office 3
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/5384.ts
+#EXTINF:-1,VIP PH: OSN GMA Pinoy
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7024.ts
+#EXTINF:-1,VIP PH: OSN GMA Life
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7023.ts
+#EXTINF:-1,VIP PH: OSN GMA News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7505.ts
+#EXTINF:-1,VIP PH: OSN AKSYON TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8004.ts
+#EXTINF:-1,VIP PH: OSN ANC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8005.ts
+#EXTINF:-1,VIP PH: OSN CINEMAONE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8006.ts
+#EXTINF:-1,VIP PH: OSN CINEMO
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8007.ts
+#EXTINF:-1,VIP PH: OSN DZMM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8008.ts
+#EXTINF:-1,VIP PH: OSN KAPATID 5
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8009.ts
+#EXTINF:-1,VIP PH: OSN TFC
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8010.ts
+#EXTINF:-1,VIP PH: OSN VIVA
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8011.ts
+#EXTINF:-1,VIP PH: OSN LifeStyle
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8002.ts
+#EXTINF:-1,VIP PH: OSN CNN Philipine
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/8034.ts
+#EXTINF:-1,VIP IN: PEHLA UTV Movies
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7787.ts
+#EXTINF:-1,VIP IN: PEHLA Star Plus Middle East
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7788.ts
+#EXTINF:-1,VIP IN: PEHLA Star Gold
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7789.ts
+#EXTINF:-1,VIP IN: PEHLA Sony Max Middle East
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7790.ts
+#EXTINF:-1,VIP IN: PEHLA SET Middle East
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7791.ts
+#EXTINF:-1,VIP IN: PEHLA Hum TV Middle East
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7792.ts
+#EXTINF:-1,VIP IN: PEHLA Dunya News
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7796.ts
+#EXTINF:-1,VIP IN: PEHLA Colors
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7797.ts
+#EXTINF:-1,VIP IN: PEHLA Ary Digital UAE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/7798.ts
+#EXTINF:-1,VIP AR: My Animal Planet HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12251.ts
+#EXTINF:-1,VIP AR: My Cinema HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12255.ts
+#EXTINF:-1,VIP AR: My Crime Discrit
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12247.ts
+#EXTINF:-1,VIP AR: My Discovery Science HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12259.ts
+#EXTINF:-1,VIP AR: My Docu Box HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12246.ts
+#EXTINF:-1,VIP AR: My Fight Box HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12245.ts
+#EXTINF:-1,VIP AR: My FILMBOX HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12258.ts
+#EXTINF:-1,VIP AR: My FILMS ARTHOUSE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12250.ts
+#EXTINF:-1,VIP AR: My FIX & FOXI
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12257.ts
+#EXTINF:-1,VIP AR: My Fox Action Movies HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12261.ts
+#EXTINF:-1,VIP AR: My Fox Family Movies HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12260.ts
+#EXTINF:-1,VIP AR: My FX HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12242.ts
+#EXTINF:-1,VIP AR: My JIMJAM
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12249.ts
+#EXTINF:-1,VIP AR: My MBC Bollywood HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12256.ts
+#EXTINF:-1,VIP AR: My Myme TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12248.ts
+#EXTINF:-1,VIP AR: My NIKELODEON 4TENNE
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12253.ts
+#EXTINF:-1,VIP AR: My NIKELODEON HD
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12254.ts
+#EXTINF:-1,VIP AR: My NIKELODEON Junior
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12252.ts
+#EXTINF:-1,VIP AR: My Nina TV
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12244.ts
+#EXTINF:-1,VIP AR: My Travel
+http://world-iptv.net:8080/live/1nickPro0719live3/px73GMHHHE/12243.ts
